@@ -1,0 +1,55 @@
+# Environment files (contain secrets!)
+.env
+.env.local
+.env.*.local
+
+# Authentication files (contain tokens!)
+headers_auth.json
+browser_auth.json
+oauth.json
+*.json
+!package.json
+!package-lock.json
+
+# Output files
+spotify_liked_songs.csv
+failed_songs.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Required dependencies
+selenium>=4.0.0
+pyautogui>=0.9.53
+ytmusicapi>=1.0.0
+python-dotenv>=1.0.0
