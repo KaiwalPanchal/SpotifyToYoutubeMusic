@@ -256,8 +256,8 @@ A: This tool is for personal use to help migrate your music preferences. It does
 
 **Q: How accurate is the matching?**
 
-A: Very accurate for popular songs. Some lesser-known tracks or regional releases may not have exact matches on YouTube Music.
+A: Very accurate, worked for all songs I had.
 
 **Q: Can I run this for playlists other than Liked Songs?**
 
-A: Currently, only Liked Songs is supported. Playlist support can be added in future versions.
+A: Currently, only Liked Songs is supported. Playlist support will probably be added in future when I get to take another look at this.
